@@ -1,0 +1,1 @@
+print("Have a good day"); print("Hello!"); print("Python is fun")
