@@ -1,0 +1,12 @@
+STORE: PY-MART SUPERMARKET
+DATE: 27/02/2026  TIME: 14:35:01
+--------------------------------
+Apple Juice          4.50
+Fresh Bread          2.10
+Organic Eggs        12.00
+Dark Chocolate       3.75
+--------------------------------
+TOTAL AMOUNT:       22.35
+PAYMENT METHOD:      CASH
+--------------------------------
+Thank you for shopping!
